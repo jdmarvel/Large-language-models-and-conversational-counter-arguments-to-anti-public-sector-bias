@@ -1,0 +1,22 @@
+{
+  "title": "Replication package — Large Language Models and Conversational Counter-Arguments to Anti-Public Sector Bias",
+  "description": "Data, survey instruments, and analysis code to reproduce the figures in the paper \"Large Language Models and Conversational Counter-Arguments to Anti-Public Sector Bias\" (Journal of Public Administration Research and Theory, 2026). The archive contains the complete survey datasets for three pre-registered experiments (not trimmed replication extracts), the survey instruments as fielded, a full variable codebook, and the Stata and R scripts that generate the paper's data-driven figures.",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "creators": [
+    { "name": "Marvel, John D.", "affiliation": "American University" },
+    { "name": "Neo, Sheeling" },
+    { "name": "Cho, Rachel" },
+    { "name": "Ju, Sangwon" }
+  ],
+  "keywords": [
+    "large language models",
+    "generative AI",
+    "public administration",
+    "anti-public sector bias",
+    "survey experiment",
+    "motivated reasoning",
+    "replication data"
+  ]
+}

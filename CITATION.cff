@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this archive, please cite both the paper and this data and code archive."
+title: "Replication package — Large Language Models and Conversational Counter-Arguments to Anti-Public Sector Bias"
+type: dataset
+license: CC-BY-4.0
+authors:
+  - family-names: Marvel
+    given-names: John D.
+    affiliation: American University
+  - family-names: Neo
+    given-names: Sheeling
+  - family-names: Cho
+    given-names: Rachel
+  - family-names: Ju
+    given-names: Sangwon
+preferred-citation:
+  type: article
+  title: "Large Language Models and Conversational Counter-Arguments to Anti-Public Sector Bias"
+  year: 2026
+  journal: "Journal of Public Administration Research and Theory"
+  authors:
+    - family-names: Marvel
+      given-names: John D.
+    - family-names: Neo
+      given-names: Sheeling
+    - family-names: Cho
+      given-names: Rachel
+    - family-names: Ju
+      given-names: Sangwon
